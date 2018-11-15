@@ -1,5 +1,5 @@
 # install-pkg
-For Android Termux
+
 Install All pkg for termux
 
 Commands :
