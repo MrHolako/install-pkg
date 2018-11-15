@@ -10,6 +10,4 @@ ls
 
 cd install-pkg
 
-chmod +x install.sh install-pkg.sh
-
-./install.sh
+bash install.sh
