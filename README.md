@@ -1,2 +1,0 @@
-# Termux
-For Android Termux
