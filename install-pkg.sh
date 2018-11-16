@@ -195,5 +195,5 @@ y
 apt-get install git
 y
 echo -e $green
-figlet Successfully Completed
+figlet Completed
 echo -e white
