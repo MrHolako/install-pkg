@@ -105,7 +105,7 @@ y
 pkg install net-tools
 y
 pkg install unrar
-
+y
 pkg install clang
 y
 pkg install w3m
