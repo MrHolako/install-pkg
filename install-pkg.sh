@@ -70,11 +70,11 @@ pkg install figlet
 y
 pkg install wget
 y
-pkg install wget -y
+pkg install wget
 y
-pkg install python2 -y
+pkg install python2
 y
-pkg install python2-dev -y
+pkg install python2-dev
 y
 apt install wireshark 
 y
@@ -146,7 +146,7 @@ pkg update
 y
 pkg upgrade
 y
-apt update && apt upgrade -y
+apt update && apt upgrade
 y
 apt install git
 y
