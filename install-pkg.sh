@@ -19,8 +19,10 @@ echo
 echo -e $red "-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-"
 echo
 echo -e $cyan "Author        : Mr.Holako"
-echo -e $cyan "Telegram  : t.me/HolakoSyria963"
+echo -e $cyan "Telegram      : t.me/HolakoSyria963"
 echo -e $cyan "Twitter       : https://twitter.com/holako_sy_963"
+echo
+echo -e $red "-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-"
 echo -e $white
 pkg install python
 y
@@ -196,4 +198,4 @@ apt-get install git
 y
 echo -e $green
 figlet Completed
-echo -e white
+echo -e $white
