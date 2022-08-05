@@ -18,8 +18,8 @@ figlet install pkg
 echo
 echo -e $red "-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-"
 echo
-echo -e $cyan "Author        : Mr.Holako"
-echo -e $cyan "Telegram      : t.me/HolakoSyria963"
+echo -e $cyan "Author        : Mr.abhi"
+echo -e $cyan "Telegram      :t.me/mrhacker5056 "
 echo -e $cyan "Twitter       : https://twitter.com/holako_sy_963"
 echo
 echo -e $red "-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-"
